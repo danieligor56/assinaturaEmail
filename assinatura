@@ -1,0 +1,43 @@
+<table cellpadding="0" cellspacing="0" border="0" style="font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; color: #1e293b; max-width: 520px; border-collapse: collapse;">
+  <tr>
+    <!-- Foto de Perfil -->
+    <td style="padding-right: 18px; vertical-align: middle;">
+      <img src="C:\Users\Odin\Pictures\ChatGPT Image 16 de set. de 2026, 07_28_29.png" alt="Daniel Igor" width="88" height="88" style="border-radius: 50%; border: 3px solid #0ea5e9; display: block; object-fit: cover;">
+    </td>
+    
+    <!-- Barra Divisória -->
+    <td style="border-left: 3px solid #0284c7; padding-left: 18px; vertical-align: middle;">
+      <div style="font-size: 18px; font-weight: 700; color: #0f172a; letter-spacing: -0.3px;">
+        Daniel Igor
+      </div>
+      <div style="font-size: 13px; font-weight: 600; color: #0284c7; margin-top: 2px;">
+        Full Stack Developer
+      </div>
+      <div style="font-size: 11px; color: #64748b; margin-top: 2px; margin-bottom: 10px;">
+        .NET • C# • Angular • Java Spring • APIs REST & ERPs
+      </div>
+      
+      <!-- Contatos -->
+      <table cellpadding="0" cellspacing="0" border="0" style="font-size: 12px; color: #334155;">
+        <tr>
+          <td style="padding-bottom: 4px;">
+            <strong style="color: #0f172a;">WhatsApp:</strong> 
+            <a href="https://wa.me/5585985727393" style="color: #334155; text-decoration: none;">+55 (85) 98572-7393</a>
+          </td>
+        </tr>
+        <tr>
+          <td style="padding-bottom: 4px;">
+            <strong style="color: #0f172a;">E-mail:</strong> 
+            <a href="mailto:danieligor.vale@hotmail.com" style="color: #334155; text-decoration: none;">danieligor.vale@hotmail.com</a>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <strong style="color: #0f172a;">LinkedIn:</strong> 
+            <a href="https://www.linkedin.com/in/daniel-igor-286032234/" style="color: #0284c7; text-decoration: none; font-weight: 500;">linkedin.com/in/daniel-igor-286032234</a>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
